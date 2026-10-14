@@ -1,5 +1,12 @@
 # Novidades
 
+## Em desenvolvimento (demo web) — Visual fluido
+
+- Interface nova: vidro e desfoque, botões que afundam e brilham ao toque, janelas que deslizam, números e barras que animam.
+- **Cidade como cena viva**: cada construção surge com andaimes, poeira e som, e depois ganha fumaça, bandeiras ao vento e janelas acesas.
+- Menu com retratos dos heróis e ícones no mesmo estilo (sem emojis).
+- Próximo: arte mais coesa, animação de unidades e batalha com câmera. Jogue a demo: https://coroa-de-brasas-demo.vercel.app
+
 ## 2.0.0 — Reconstrução completa
 
 - Arte totalmente nova: terreno, árvores, montanhas, objetos e personagens animados desenhados por código, com sombras e contornos.
