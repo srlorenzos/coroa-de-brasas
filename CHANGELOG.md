@@ -25,3 +25,6 @@
 Um mapa único e combate simples.
 
 - Animação por partes nas unidades, herói com poeira no mapa, árvores e bandeiras ao vento, projéteis em arco, novo menu inicial.
+
+## Fluxo de novo jogo no estilo Heroes III
+- Menu principal com Novo jogo, Carregar, Pontuação, Créditos e Sair; cenário único, campanha e tutorial; seleção de cenário, dificuldade de 5 níveis e opções avançadas (cor, facção, herói, bônus); menu Sistema com salvar/carregar em 3 espaços; Render-se e Fugir na batalha.
