@@ -23,3 +23,5 @@
 ## 1.0 — Protótipo
 
 Um mapa único e combate simples.
+
+- Animação por partes nas unidades, herói com poeira no mapa, árvores e bandeiras ao vento, projéteis em arco, novo menu inicial.
