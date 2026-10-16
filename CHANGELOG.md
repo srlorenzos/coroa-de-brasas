@@ -1,5 +1,12 @@
 # Novidades
 
+## 16/10/2026 — Cidade em tela cheia, herói montado 3D, Graal
+
+- **Cidade em tela cheia**: cenário pintado por facção, prédios 3D clicáveis na cor da facção, castelo dominante e painel fino com as tropas do herói e da guarnição.
+- **Herói montado em 3D** (8 direções, estandarte na cor do jogador) e mapa em tela cheia.
+- **Eventos de mês, dormir/acordar herói, Graal** (obeliscos, cavar, Santuário da Brasa Eterna) e novo kit de interface de pedra e madeira.
+- Jogue: https://coroa.coube.shop
+
 ## 15/10/2026 — Rivais, 3 facções, batalha em hexágonos e tela do herói
 
 - **IAs rivais** que jogam de verdade: heróis andam, coletam, conquistam minas, constroem, recrutam e atacam você; a dificuldade muda o ritmo delas.
