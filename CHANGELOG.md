@@ -1,5 +1,14 @@
 # Novidades
 
+## 15/10/2026 — Rivais, 3 facções, batalha em hexágonos e tela do herói
+
+- **IAs rivais** que jogam de verdade: heróis andam, coletam, conquistam minas, constroem, recrutam e atacam você; a dificuldade muda o ritmo delas.
+- **3 facções com 7 tiers cada** (nova: Legião Pálida) e 11 unidades novas.
+- **Batalha em grade hexagonal 15×11**: movimento, alcance e área por hexágono.
+- **Tela do herói** com atributos, 7 habilidades secundárias e artefatos; subida de nível com escolha entre 2 habilidades; vários heróis; taverna; guarnição da cidade; magias de aventura (Portal da Cidade, Visão da Terra, Marcha Forçada).
+- Desempenho: sprites e cenários pré-desenhados para manter o jogo fluido.
+- Jogue: https://coroa-de-brasas-demo.vercel.app
+
 ## Em desenvolvimento (demo web) — Visual fluido
 
 - Interface nova: vidro e desfoque, botões que afundam e brilham ao toque, janelas que deslizam, números e barras que animam.
