@@ -1,5 +1,12 @@
 # Novidades
 
+## 16/10/2026 (noite) — Batalha em tela cheia e tropas 3D
+
+- **Batalha em tela cheia** como no Heroes III: campo pintado por bioma (planície, pântano, cinzas, terra, neve), grade hexagonal discreta, barra de ícones (som, render-se, fugir, auto, magias, esperar, defender) e registro do combate no centro.
+- **25 tropas 3D animadas** (parado, andar, atacar, dano, morte) com silhueta própria por unidade e altura por nível; dragões novos, golem e ent articulados, corça dourada, fada de asas brilhantes.
+- Obstáculos 3D (rochas e pinheiros) no campo.
+- Jogue: https://coroa.coube.shop
+
 ## 16/10/2026 — Cidade em tela cheia, herói montado 3D, Graal
 
 - **Cidade em tela cheia**: cenário pintado por facção, prédios 3D clicáveis na cor da facção, castelo dominante e painel fino com as tropas do herói e da guarnição.
